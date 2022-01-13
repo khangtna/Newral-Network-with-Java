@@ -29,5 +29,8 @@ Gọi hàm neuralNetwork.predict(input) để tiến hành dự đoán.
 Code nằm ở folder 
   src/main/java/com.company/jGUI/javaGUI.java
 
+Mở lên và run chương trình javaGUI.java 
+
+Nhập số lương (triệu) và số năm làm việc vào để dự đoán kết quả.
 
 
