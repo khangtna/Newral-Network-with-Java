@@ -31,6 +31,5 @@ Code nằm ở folder
 
 Mở lên và run chương trình javaGUI.java 
 
-Nhập số lương (triệu) và số năm làm việc vào để dự đoán kết quả.
-
+Nhập số lương (triệu) và thời gian làm việc (năm) vào để dự đoán kết quả.
 
